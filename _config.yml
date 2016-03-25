@@ -1,6 +1,6 @@
 name: liecht
 favicon: null
-layout_spectrum: 0.8664984316565096
+layout_spectrum: 0.75268
 typography_spectrum: 0.0017252706456929445
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3265053927898407
-  lightness: 0.6568156017456204
-  saturation: 0.4566133141051978
-  rhythmicContrast: 0.7508970876224339
+    - '#060606'
+    - '#fafafa'
+    - '#8c8c8c'
+    - '#aaaaaa'
+    - '#cccccc'
+  brandStrength: 0.75
+  lightness: 0.125
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
