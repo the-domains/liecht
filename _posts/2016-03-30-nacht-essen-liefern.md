@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Ausschnitte aus dem nächtlichen Kurierleben
-datePublished: '2016-03-30T15:25:08.956Z'
-dateModified: '2016-03-30T15:23:39.663Z'
-title: 'Nacht, Essen, liefern'
+description: Nächtliches Kurierleben
+datePublished: '2016-03-30T15:26:31.452Z'
+dateModified: '2016-03-30T15:26:01.971Z'
+title: 'Nacht, Stadt, überall'
 author: []
+sourcePath: _posts/2016-03-30-nacht-essen-liefern.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-nacht-essen-liefern.md
-published: true
 url: nacht-essen-liefern/index.html
 _type: Article
 
