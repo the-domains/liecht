@@ -23,7 +23,7 @@ color:
     - '#aaaaaa'
     - '#cccccc'
   brandStrength: 0
-  lightness: 0.8125
-  saturation: 0
-  rhythmicContrast: 1
+  lightness: 0.5625
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
