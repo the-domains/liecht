@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Langzeitbelichtungen am einzigen Ort, wo Zürich mich jeden Tag etwas an LA erinnert'
-datePublished: '2016-03-30T15:00:44.404Z'
-dateModified: '2016-03-30T15:00:34.056Z'
+datePublished: '2016-03-30T15:14:53.088Z'
+dateModified: '2016-03-30T15:12:12.171Z'
 title: 'Feierabend, Los Angeles Miniature, Farbenschlieren'
 author: []
+sourcePath: _posts/2016-03-30-feierabend-los-angeles-miniature-farbenschlieren.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-feierabend-los-angeles-miniature-farbenschlieren.md
-published: true
 url: feierabend-los-angeles-miniature-farbenschlieren/index.html
 _type: Article
 
