@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T08:10:41.798Z'
-dateModified: '2016-03-31T08:10:31.771Z'
+datePublished: '2016-03-31T08:10:52.417Z'
+dateModified: '2016-03-31T08:10:51.940Z'
 title: Was einzufange
 author: []
 authors: []
