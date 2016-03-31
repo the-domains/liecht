@@ -6,22 +6,22 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-31T08:25:36.506Z'
-dateModified: '2016-03-31T08:23:53.293Z'
+description: "Bilder und Text Mario Angst\_"
+datePublished: '2016-03-31T08:34:34.099Z'
+dateModified: '2016-03-31T08:34:26.686Z'
 title: '  '
 author: []
+sourcePath: _posts/2016-03-31-was-einzufange.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-was-einzufange.md
-published: true
 _type: Blurb
 
 ---
 > Liecht ist Licht und leicht auf Schweizerdeutsch, zugleich.
 
-Bilder und Text Mario Angst
+Bilder und Worte Mario Angst
