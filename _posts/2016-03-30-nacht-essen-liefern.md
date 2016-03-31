@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T08:26:18.787Z'
-dateModified: '2016-03-31T08:19:37.579Z'
+datePublished: '2016-03-31T08:35:53.746Z'
+dateModified: '2016-03-31T08:35:53.299Z'
 title: 'Nacht, Stadt, überall'
 author: []
 sourcePath: _posts/2016-03-30-nacht-essen-liefern.md
