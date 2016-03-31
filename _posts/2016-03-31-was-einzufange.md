@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T08:13:17.725Z'
-dateModified: '2016-03-31T08:12:21.386Z'
+datePublished: '2016-03-31T08:15:32.500Z'
+dateModified: '2016-03-31T08:13:26.118Z'
 title: ''
 author: []
 authors: []
@@ -18,8 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-03-31-was-einzufange.md
 published: true
-url: was-einzufange/index.html
-_type: Article
+_type: Blurb
 
 ---
 Ein Fotoblog über das Halten von Licht und Stimmung, ohne Ziel und Richtung.
