@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-31T08:15:32.500Z'
-dateModified: '2016-03-31T08:13:26.118Z'
+datePublished: '2016-03-31T08:22:50.825Z'
+dateModified: '2016-03-31T08:22:22.332Z'
 title: ''
 author: []
 authors: []
@@ -22,8 +22,6 @@ published: true
 _type: Blurb
 
 ---
-Ein Fotoblog über das Halten von Licht und Stimmung, ohne Ziel und Richtung.
+> Liecht ist Licht und leicht auf Schweizerdeutsch, zugleich.
 
-Liecht ist Licht und leicht auf Schweizerdeutsch, zugleich.
-
-Bild und Text Mario Angst
+Bilder und Text Mario Angst
