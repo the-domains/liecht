@@ -1,20 +1,4 @@
-name: liecht
-favicon: null
-layout_spectrum: 0.7203109941910952
 typography_spectrum: 0.23678346979431808
-title: liecht
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FCFFF5'
@@ -26,4 +10,24 @@ color:
   lightness: 0.9240582354832441
   saturation: 0.019072828581556678
   rhythmicContrast: 0.8740761836525053
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7203109941910952
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: liecht
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Nacht, Stadt, überall'
+    id: 679cd308-fdca-4860-bcbf-0320dcc6b256
+    type: content
+favicon: null
+title: liecht
 purpose: []
