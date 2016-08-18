@@ -1,30 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-31T10:58:49.256Z'
-dateModified: '2016-03-31T10:22:06.701Z'
-title: 'Nacht, Stadt, überall'
-author: []
+datePublished: '2016-08-18T09:57:36.751Z'
 sourcePath: _posts/2016-03-30-nacht-essen-liefern.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-18T09:57:36.161Z'
+title: 'Nacht, Stadt, überall'
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: nacht-essen-liefern/index.html
 _type: Article
 
 ---
-## Nächtliches Kurierleben
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/681b2023-bc60-43e7-9624-f65685cf31c9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47e08976-f729-4228-8ac1-6d85dd568a75.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cde8185-8d68-419e-80d0-3b60a22e28c4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/414059d3-227d-4153-8ae5-01c8c631f69d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/974f8552-4d5e-40eb-ab16-a74a9431e196.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0434c412981320a5efea08a411c46ac9f860ca0.jpg)
+
+Nächtliches Kurierleben
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51dca02e3cbcd61e44cf33d41cee5184ec3a4be2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7a0999bb0541327911e27ef3b8b2dcf3a4a5f26.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7efe45f47514aa09c93c0c2608bae7ddd51531b9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/73b6080dfdf6ecacf9dcebcbb1d7acc29d72e7c8.jpg)
