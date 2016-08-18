@@ -28,6 +28,9 @@ navigation:
   - name: 'Nacht, Stadt, überall'
     id: 679cd308-fdca-4860-bcbf-0320dcc6b256
     type: content
+  - name: 'Feierabend, Los Angeles Miniature, Farbenschlieren'
+    id: ba05c582-6e85-474c-a4c4-388efb418a05
+    type: content
 favicon: null
 title: liecht
 purpose: []
