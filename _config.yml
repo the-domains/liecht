@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: 'Morgen, Schnee, Fünf'
-    id: 21e58cfb-d827-45d4-90fe-20e573113080
-    type: content
 favicon: null
 title: liecht
 purpose: []
