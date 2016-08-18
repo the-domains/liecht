@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T09:58:08.626Z'
+datePublished: '2016-08-18T09:58:23.676Z'
 sourcePath: _posts/2016-03-30-feierabend-los-angeles-miniature-farbenschlieren.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-18T09:58:08.064Z'
+dateModified: '2016-08-18T09:58:23.200Z'
 title: 'Feierabend, Los Angeles Miniature, Farbenschlieren'
 publisher: {}
 description: 'Samyang 12mm, Zürich, März 2016'
